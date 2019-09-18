@@ -1,8 +1,5 @@
 # Webpack-Boilerplate
 Babel Webpack Boilerplate
-
-
-**Webpack**
 1.Webpack is a module bundler
 2.Wokrks well with babel
 3.Local development server
